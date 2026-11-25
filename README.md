@@ -5,6 +5,7 @@ Its made for speed and to be easy.
 
 # Roadmap
 - Create docs and README.md[yes]
+- Write an cli[no]
 - Write the language[no]
 - Write an package menager for Kuroi (like pip and cargo)[no]
 - Optimazi it[no]
