@@ -3,7 +3,7 @@ Its an easy python/html/xml like syntax programing language.
 
 Its made for speed and to be easy.
 
-# Road map
+# Roadmap
 - Create docs and README.md[yes]
 - Write the language[no]
 - Write an package menager for Kuroi (like pip and cargo)[no]
