@@ -1,0 +1,13 @@
+# This a basic syntax example in Kuroi
+
+```
+<int two = 2>
+<var word = "Hello, word from kuro!">
+
+<fn main()>
+    print(two)
+    // prints 2
+    print(word)
+    let 2andword = "2. Hello word from kuro!"
+    print(2andword)
+```
