@@ -1,7 +1,7 @@
 # Kuroi-lang
-Its an easy python/html/xml like syntax programing language.
+It's an easy python/html/xml like syntax programing language.
 
-Its made for speed and to be easy.
+It's made for speed and to be easy.
 
 # Roadmap
 - Create docs and README.md [yes]
