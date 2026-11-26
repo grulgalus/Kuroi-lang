@@ -1,6 +1,2 @@
-__pycache__/*
-__pycache__/*.*
-__pycache__/
-target/*
-target/*.*
+__pycache__
 target
